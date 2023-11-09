@@ -1,11 +1,7 @@
 ### Hi there 👋
 
 
-Hey! My name is **Zeedz** (he/him), I'm an Aussie Software Developer working on heaps of projects. Primarily using javascript and nodeJS, I enjoy learning new skills and trying new things out! 
-
-Excited to improve my frontend development, I am a backend developer at heart. Seriously though, the frontend's that I work on look like a rat took a shit on the site... That's why I stick with backend & Discord Bot Development. 😔
-
-If you want to reach out to me, contact me on *discord*, a voice & texting platform by clicking on the box below :)
+Working on [joiner.gg](https://joiner.gg). A lot of my stuff is privated because I'm insecure about my commit messages...
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/497531521981349890)](https://discord.com/users/497531521981349890)
 
